@@ -9,6 +9,11 @@ package test1.util;
  *
  * @author admin
  */
+
+
+
+
+
 public class MathUtil {
 
     public static int factorielleRecu(int nombr) {
